@@ -18,7 +18,8 @@ Samples for Remix
 
 ## Copyright
 
-**Copyright holder:** Kameyama ([@mukumi](https://mukumi.booth.pm))
+**Original Work Copyright Holder:** Kameyama ([@mukumi](https://mukumi.booth.pm))
 
-本楽曲は **Tsuikyu による二次創作物** であり、  
-著作権は **「かめ山（もち山金魚）」** に帰属します。
+本楽曲は **Tsuikyu による二次創作作品** です。
+原作に関する著作権その他の権利は、**かめ山（もち山金魚）氏** に帰属します。
+本楽曲において Tsuikyu が独自に創作・制作した音楽および音源に関する権利は、別段の合意がない限り Tsuikyu に帰属します。
